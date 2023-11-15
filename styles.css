@@ -1,0 +1,31 @@
+.h1_titulo_principal {
+  color: #0000ee;
+  text-decoration: underline;
+  font-size: 16px;
+  font-weight: normal;
+}
+
+.enlace {
+  color: black;
+  font-size: 24px;
+  font-weight: bolder;
+  text-decoration: none;
+}
+
+.btn {
+  margin: 2px;
+  padding: 4px;
+  border-style: solid;
+  border-width: 1xp;
+  border-color: #ccc5b9;
+  border-radius: 1px;
+
+  border: 2px #ccc5b9 solid;
+  background-color: #eb5e28;
+  font-size: 18px;
+  color: #ccc5b9;
+}
+.btn:hover {
+  color: #eb5e28;
+  background-color: #ccc5b9;
+}
